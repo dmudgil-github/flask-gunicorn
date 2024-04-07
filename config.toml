@@ -1,0 +1,12 @@
+# Sample Configuration File (config.toml)
+
+[general]
+# General settings
+title = "Flask Hello World Program"
+version = "1.0"
+author = "Your Name"
+
+[server]
+# Server configuration
+host = "127.0.0.1"
+port = 5000
